@@ -1,0 +1,18 @@
+
+{
+  "chain_name": "SREVO",
+  "token_name": "SREVO",
+  "ticker": "SREVO",
+  "base_denomination": "asrevo",
+  "decimals": 18,
+  "proposed_max_supply": "1000000000",
+  "allocation": {
+    "community": "30%",
+    "ecosystem_and_development": "20%",
+    "validator_rewards": "20%",
+    "treasury": "15%",
+    "team": "10%",
+    "strategic_partners": "5%"
+  },
+  "status": "proposed_not_implemented"
+}
